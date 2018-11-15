@@ -1,0 +1,14 @@
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\bin\Debug\RemoteWpf.exe
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\bin\Debug\RemoteWpf.pdb
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.csprojAssemblyReference.cache
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\MainWindow.g.cs
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\App.g.cs
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf_MarkupCompile.cache
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf_MarkupCompile.lref
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\MainWindow.baml
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.g.resources
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.Properties.Resources.resources
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.csproj.GenerateResource.cache
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.csproj.CoreCompileInputs.cache
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.exe
+D:\MyRoot\Study\C#\vs2017\RemoteWpf\RemoteWpf\obj\Debug\RemoteWpf.pdb

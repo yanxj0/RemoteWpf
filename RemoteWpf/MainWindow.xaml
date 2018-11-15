@@ -1,0 +1,15 @@
+﻿<Window x:Class="RemoteWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RemoteWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="364.694">
+    <Grid>
+        <Label Height="25" VerticalAlignment="Bottom" Width="25" RenderTransformOrigin="-6.286,-14.379" Margin="1,0,331,384">IP</Label>
+        <TextBox Height="25" VerticalAlignment="Bottom" Margin="31,0,141,384" RenderTransformOrigin="0.493,4.725"></TextBox>
+        <Label Height="25" VerticalAlignment="Bottom" RenderTransformOrigin="-6.286,-14.379" Margin="221,0,95,384">Port</Label>
+        <TextBox Height="25" VerticalAlignment="Bottom" Margin="267,0,27,384" RenderTransformOrigin="0.493,4.725"></TextBox>
+    </Grid>
+</Window>
